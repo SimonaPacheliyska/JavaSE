@@ -1,2 +1,2 @@
 
-This projects are part of an Java Course in Faculty of Mathematics and Informatics in Sofia University
+This projects are part of a Java Course in Faculty of Mathematics and Informatics in Sofia University
